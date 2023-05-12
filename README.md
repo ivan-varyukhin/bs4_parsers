@@ -64,8 +64,8 @@
 
 ***parsing2csv_4-9-4.py***
 
-    Необходимо собрать данные в категории HDD (https://parsinger.ru/html/index1_page_1.html) со всех 4х страниц
-	и сохранить всё в csv-файл. 
+    Необходимо собрать данные в категории HDD (https://parsinger.ru/html/index1_page_1.html)
+	со всех 4х страниц и сохранить всё в csv-файл. 
 
 ***parsing2csv_4-9-5.py***
 
@@ -74,8 +74,8 @@
 
 ***parsing2csv_4-9-6.py***
 
-    Необходимо собрать данные в категории watch (http://parsinger.ru/html/index1_page_1.html) c каждой карточки
-	(всего их 32) и сохранить всё в csv-файл.
+    Необходимо собрать данные в категории watch (http://parsinger.ru/html/index1_page_1.html)
+	c каждой карточки (всего их 32) и сохранить всё в csv-файл.
 
 ***parsing2csv_4-9-7.py***
 
